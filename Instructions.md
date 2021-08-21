@@ -11,3 +11,7 @@ Go to Homepage -> Sign UP -> Login -> Employee Portal Opens -> Add your tasks.
 Note :- Once this website is fully completed, employees and Admin will be able to login seperately,
 Employees can register their issues/complaints they are facing in the office campus and they will show in the Admin portal,
 Admin can resolve the issues and it will be updated on the employee portal
+
+Main Code - "index.html"
+Login Page Code - "MyLoginPage.html"
+SignUp Code - "SignUp.html"
